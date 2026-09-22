@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FitPulse</string>
+    <string name="duration_format">%1$d mins</string>
+    <string name="calories_format">%1$d kcal</string>
+</resources>
